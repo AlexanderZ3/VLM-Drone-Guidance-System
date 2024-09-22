@@ -1,7 +1,7 @@
 # VLM-Drone-Guidance-System
 This is an integrated VLM-Drone Guidance System, and we developed a way-finding signs dataset.
 
-The system is designed to assist PVI in locating specified targets within environments rich in signage information. During navigation, the drone instructs users to stop, turn left, right, or move forward as appropriate when encountering obstacles or detecting way-finding signs. Upon reaching the target, the system alerts the user to stop.
+The system is designed to assist people with visual impairements in locating specified targets within environments rich in signage information. During navigation, the drone instructs users to stop, turn left, right, or move forward as appropriate when encountering obstacles or detecting way-finding signs. Upon reaching the target, the system alerts the user to stop.
 
 ![sample_dataset](https://github.com/user-attachments/assets/da2a18e6-fb05-4a91-967f-d8067909673a)
 
